@@ -16,5 +16,5 @@ To analyze customer behavior and build a model that identifies customers likely 
 Telco Customer Churn Dataset
 
 ## Team Members
-- Your Name
-- Friend Name
+- Shaik Jeelan
+- Thoshitha
