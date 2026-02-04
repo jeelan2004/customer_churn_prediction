@@ -13,7 +13,7 @@ To analyze customer behavior and build a model that identifies customers likely 
 - Scikit-learn
 
 ## Dataset
-Telco Customer Churn Dataset
+Customer Churn Dataset
 
 ## Team Members
 - Shaik Jeelan
